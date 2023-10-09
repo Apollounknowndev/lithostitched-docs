@@ -208,5 +208,3 @@ To tell the game to reroll a biome, the biome selected in the modded biome slice
   ]
 }
 ```
-
-In code, you can the biome's RegistryKey is `LithostitchedBiomes.ORIGINAL_SOURCE_MARKER`.
